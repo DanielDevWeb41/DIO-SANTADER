@@ -12,8 +12,8 @@ Esse Repositorio vai ter uma Pasta Principal(Back-end Python) e dentro dessa pas
 
 ★ Dentro dessas pastas dos modulos vai ter três pastas divididas da seguintes forma: 
 
-➤ Exemplos "praticos";
+➤ Exemplos Praticos;
 
 ➤ As Anotacoes;
 
-➤ "Projetos/Desafios" 
+➤ Projetos/Desafios
