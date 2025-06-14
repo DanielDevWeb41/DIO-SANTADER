@@ -16,4 +16,4 @@ Esse Repositorio vai ter uma Pasta Principal(Back-end Python) e dentro dessa pas
 
 ➤ As Anotacoes;
 
-➤ "Projetos/Desafios" do Bootcamp relacionado a aquele modulo.
+➤ "Projetos/Desafios" 
