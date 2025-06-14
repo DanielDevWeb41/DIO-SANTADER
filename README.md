@@ -10,7 +10,7 @@ Nesse Repositorio vai ter sempre atualizacoes sobre o que estou aprendendo no Bo
 
 Esse Repositorio vai ter uma Pasta Principal(Back-end Python) e dentro dessa pasta principal vai ter outras pastas dividindo os "modulos" desse bootcamp.
 
-★ Dentro dessas pastas dos modulos vai ter três pastas divididas da seguintes forma: 
+★ Dentro dessas pastas dos modulos vai ter três pastas divididas da seguinte forma: 
 
 ➤ Exemplos Praticos;
 
