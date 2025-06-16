@@ -221,5 +221,3 @@ saques = [1500, 100]
 # vai dar FALSE, pois na variavel FRUTAS ele esta em MAISCULA e no Print ele esta minuscula
 
 
-x1 = (22 - 10) * 3
-print(x1)
