@@ -116,3 +116,110 @@ saldo1 **= 2
 print(saldo1)
 
 
+
+
+
+
+# Operadores Logicos
+
+#Operador E >>>> AND 
+saldo2 = 1000
+saque2 = 250
+limite = 200
+
+saldo2 >= saque2 and saque2 <= limite
+# >>>>> false 
+# AS DUAS EXPRECOES PRECISAM SER VERDADEIRAS (SE TIVE-SE POR EXEMPLO 4 AS QUATROS PRECISAM SER VERDADEIRAS PARA DAR VERDADEIRO)
+
+
+#Operador OU >>>>> OR
+
+saldo2 >= saque2 or saque2 <= limite
+# >>>>>> TRUE
+# UMAS DAS EXPRECOES PRECISAM SER VERDADEIRAS PARA DAR *TRUE* SE AS DUAS TIVER ERRADAS VAI DAR *FALSE*
+
+
+
+#OPERADOR DE NEGACAO >>>> NOT
+contatos_emergencia = []
+
+not 1000 > 1500
+# >>>> True
+
+not contatos_emergencia
+# >>>> True
+
+not "saque 1500;"
+# >>>> False
+
+not " "
+# >>>> True
+
+
+#operador Parenteses
+conta_especial = True
+
+saldo2 >= saque2 and saque <= limite or conta_especial and saldo2 >= saque2
+# >>>> True
+
+(saldo2 >= saque2 and saque2 <= limite) or (conta_especial and saldo2 >= saque2)
+# >>>>> True
+
+#SERVE PARA DELIMITIR, AJUDAR A ORGANIZAR UMA EXPRECAO
+
+
+
+
+
+
+# OPERADORES DE IDENTIDADE >>>>>> (IS) (IS NOT)
+# SAO OPERADORES UTILIZADOS PARA COMPARAR  SE OS DOIS OBJETOS TESTADOS OCUPAM A    MESMA POSICAO NA MEMORIA 
+
+
+curso = "Curso de Python"
+nome_curso = curso
+saldo3, limite3 = 200, 200
+
+
+curso is nome_curso
+# >>>>> TRUE
+
+curso is not nome_curso
+# >>>>> FALSE
+
+saldo is limite
+# >>>>> TRUE
+
+
+
+
+
+# OPERADORES DE ASSOCIACAO >>>> (in) (not in)
+# SAO OPERADORES UTILIZADOS  PARA VERIFICAR  SE UM OBJETO  ESTA PRESENTE EM UMA S SEQUENCIA 
+
+# EXEMPLO
+
+curso_1 = "CURSO DE PYTHON"
+frutas = ["Laranja", "uva", "banana"]
+saques = [1500, 100]
+# ELES TODOS SAO UMA SEQUENCIA
+
+"PYTHON" in curso_1
+# >>>>> True
+
+"limao" not in frutas
+# >>>> True
+
+200 in saques
+# >>>>> False
+
+# ATENCAO IMPORTANTE >>> LETRA MAIUSCULAS ou MINUSCULAS INTERFEREM NO RESULTADO EXEMPLO SE EU DECLARA UVA no maiusculo nas frutas e querer usa o sinal de associacao nele depois vai ter que coloca ele todo maiusculo.
+
+# exemplo: 
+# frutas = ["UVA"]
+# print("uva" in frutas)
+# vai dar FALSE, pois na variavel FRUTAS ele esta em MAISCULA e no Print ele esta minuscula
+
+
+x1 = (22 - 10) * 3
+print(x1)
