@@ -1,7 +1,7 @@
 # REPOSITORIO DO BOOTCAMP DA DIO DE BACK-END COM PYTHON
 
 
-Nesse Repositorio vai ter sempre atualizacoes sobre o que estou aprendendo no Bootcamp
+## Nesse Repositorio vai ter sempre atualizacoes sobre o que estou aprendendo no Bootcamp
 
 
 
@@ -19,4 +19,6 @@ e tambem vai ter uma pasta escrita:
 
 ➤ Exemplos Praticos;
 
-➤ Anotacoes;
+⚠️ DEPENDENDO DO CURSO VAI TER OUTRAS SUB-PASTAS DENTRO DELA ⚠️
+
+➤ Anotacoes.
