@@ -115,3 +115,43 @@
                 # status = "Sucesso" if saldo >= saque else "Falha"
                 
                 # print(f" {status} ao realizar o saque!")
+                
+
+
+
+
+# ESTRUTURAS DE REPETICOES
+    # SAO ESTRUTURAS UTILIZADAS PARA REPETIR UM TRECHO DE CODIGO UM DETERMINADO NUMERO  DE VEZES. ESSE NUMERO PODE SER CONHECIDO PREVIAMENTE OU DETERMINADO ATRAVES DE UMA EXPRESSAO LOGICA.
+    
+    # EXEMPLO SEM REPETICAO
+        # RECEBA UM NUMERO DO TECLADO  E EXIBA  OS 2 NUMEROS SEGUINTES
+        # a = int(input("Informe um numero inteiro: "))
+        # print(a)
+        # a += 1
+            # print(a)
+        
+        # a += 1
+            # print(a)
+    # EXEMPLO COM REPETICAO
+        # a = int(input("Informe um numero inteiro: "))
+        # print(a)
+        
+        # repita 2 vezes
+            # a += 1
+            # print(a)
+    # ATENCAO POR ENQUANTO NAO TEM NENHUMA SINTAXE O REPITA.
+    
+    # COMANDO FOR
+        # O comando FOR é usado para percorrer um objeto iteravel. Faz sentido usar FOR quando sabemos o numero exato de vezes que nosso bloco de codigo deve ser executado, ou quando queremos percorrer um objeto iteravel.
+        # A STRING é um objeto iteravel como exemplo.
+        
+        #EXEMPLO - FOR
+            # texto = input("Informe um texto: ")
+            # VOGAIS = "AEIOU"
+            
+            # for letra in texto:
+                # if letra.upper() in VOGAIS:
+                    # print(letra, end=" ")
+                    
+            # print()  # adiciona uma quebra de linha
+            # UPPER deixa as letras em maiusculo
