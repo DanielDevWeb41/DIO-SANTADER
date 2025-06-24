@@ -12,10 +12,12 @@ Esse Repositorio vai ter uma Pasta Principal(Back-end Python) e dentro dessa pas
 
 ★ Dentro dessas pastas dos modulos vai ter as pastas divididas de acordo com os cursos que tem dentro do modulo 
 e tambem vai ter uma pasta escrita:
+
 ➤ PROJETO/DESAFIO.
 
 ★ Por fim, dentro dessas pastas dos cursos vai ter as seguintes pastas:
 ➤ Exemplos Praticos;
+
 ⚠️ DEPENDENDO DO CURSO VAI TER OUTRAS SUB-PASTAS DENTRO DELA ⚠️
 
 ➤ Anotacoes.
