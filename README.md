@@ -18,6 +18,7 @@ e tambem vai ter uma pasta escrita:
 ★ Por fim, dentro dessas pastas dos cursos vai ter as seguintes pastas:
 
 ➤ Exemplos Praticos;
+
 ⚠️ DEPENDENDO DO CURSO VAI TER OUTRAS SUB-PASTAS DENTRO DELA ⚠️
 
 ➤ Anotacoes;
